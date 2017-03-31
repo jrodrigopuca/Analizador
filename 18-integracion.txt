@@ -1,0 +1,14 @@
+class Miclase()
+{
+ do
+ {
+ if (Variable0<=10 || Variable1 >=1)
+ {
+   Variable2 += Variable3;  
+ }
+ else
+ {
+   char Variable4 = 'j';
+ }
+ } while (Variable5 >= Variable6) 
+}

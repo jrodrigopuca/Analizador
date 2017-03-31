@@ -1,0 +1,1 @@
+char Variable1 , Variable2 , Variable3 ;

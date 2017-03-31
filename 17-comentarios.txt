@@ -1,0 +1,6 @@
+
+/*Esto
+Es
+UnComentario*/ 
+
+Variable=Variable1;

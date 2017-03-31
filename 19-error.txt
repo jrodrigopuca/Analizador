@@ -1,0 +1,3 @@
+if (hola) {}
+/*Debería dar 
+error de sintaxis*/

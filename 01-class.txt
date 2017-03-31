@@ -1,0 +1,1 @@
+public class ClaseUno ( int uno, int dos ) { }
